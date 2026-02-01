@@ -1,0 +1,7 @@
+{
+  "name": "4 Aana Real Estate - Nepal",
+  "description": "A comprehensive real estate platform for Nepal featuring advanced search, local land measurement units (Aana), and a full admin dashboard for managing listings and inquiries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
